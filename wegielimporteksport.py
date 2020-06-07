@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
+
 from pylab import plot, show, xticks, yticks, title, xlabel, ylabel, legend, savefig 
 
 x=['Sept. 30, 2015','Oct. 31, 2015','Nov. 30, 2015','Dec. 31, 2015',
